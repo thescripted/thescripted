@@ -1,3 +1,3 @@
 ### About Me
 
-Building Design System @ Meraki
+JS Platform Engineer @ Meraki
